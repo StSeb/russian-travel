@@ -15,7 +15,7 @@
 @import url(../blocks/link-decoration/link-decoration.css);
 @import url(../blocks/section_width/section-width.css);
 
-body, section, div, ul, li, h1, h2, h3, h4, p, article, a, img,
+/* body, section, div, ul, li, h1, h2, h3, h4, p, article, a, img,
 footer, header, nav, svg {
   outline: 1px solid red;
-}
+} */
