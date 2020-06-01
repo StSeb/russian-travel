@@ -6,13 +6,9 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .place__paragraph {
-
-  }
   .place__paragraph:last-child {
     margin-bottom: 0;
   }
-
 }
 
 @media screen and (max-width: 1023px) {
